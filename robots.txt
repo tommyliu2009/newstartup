@@ -31,4 +31,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://web9.subsidyking.tw/sitemap.xml
+Sitemap: https://web15.subsidyking.tw/sitemap.xml
