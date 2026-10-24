@@ -53,6 +53,15 @@
 "via": "newsdb",
 "added": "2026-10-17"
 },
+"https://news.immigration.gov.tw/NewsSection/Detail/f759a9bf-d280-498d-93e1-6851498ee0c0?lang=TW": {
+"title": "嘉義嘉城新浪音樂節結合移民節 新住民原創歌曲〈抵嘉〉首度登台",
+"url": "https://news.immigration.gov.tw/NewsSection/Detail/f759a9bf-d280-498d-93e1-6851498ee0c0?lang=TW",
+"date": "2026-10-24",
+"unit": "內政部移民署",
+"summary": "2026嘉城新浪音樂節暨移民節活動於嘉義市中央廣場舉行，邀請越南、印尼、菲律賓等國音樂人演出，並由新住民、新二代與在地樂團共同創作的原創歌曲《抵嘉》首次登台。活動設有40個市集攤位，展示16國特色料理、商品與文化體驗，並由嘉義市副市長陳永豐說明透過音樂與文化交流，促進新住民與在地社群的互動與共融。",
+"via": "newsdb",
+"added": "2026-10-25"
+},
 "https://www.taichung.gov.tw/3374764/post": {
 "title": "AI助新住民跨越語言高牆！ 大里戶所開辦生活AI應用班 科技培力接軌在地生活",
 "url": "https://www.taichung.gov.tw/3374764/post",
@@ -493,14 +502,5 @@
 "summary": "報新聞/編輯部社團法人台灣新移民協會10月18日在臺中潮港城舉辦「臺越婦女節文化交流活動」，結合首屆",
 "via": "gnews",
 "added": "2026-10-20"
-},
-"https://n.yam.com/Article/20261022541761": {
-"title": "策進會與陸委會訪高雄香港新住民 見證跨海成家、科技創業與公益回饋",
-"url": "https://n.yam.com/Article/20261022541761",
-"date": "2026-10-22",
-"unit": "蕃新聞",
-"summary": "日與陸委會，隨內政部移民",
-"via": "gnews",
-"added": "2026-10-24"
 }
 }
