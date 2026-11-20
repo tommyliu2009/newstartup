@@ -251,6 +251,15 @@
 "via": "newsdb",
 "added": "2026-10-31"
 },
+"https://web.tainan.gov.tw/Gueiren/News_Content.aspx?n=9225&sms=11699&s=8847987": {
+"title": "臺南市歸仁戶政事務所-【選務宣導】新住民宣導",
+"url": "https://web.tainan.gov.tw/Gueiren/News_Content.aspx?n=9225&sms=11699&s=8847987",
+"date": "2026-11-20",
+"unit": "臺南市",
+"summary": "臺南市歸仁戶政事務所轉知，中央選舉委員會為加強向新住民宣導115年地方公職人員選舉及全國性公民投票案第22案，製作「1128投票去」電視廣告及「禁止攜帶手機及防制AI深偽影音」宣導海報，均已翻譯為多國語言版本，供新住民朋友參閱。",
+"via": "newsdb",
+"added": "2026-11-21"
+},
 "https://www.cna.com.tw/news/aipl/202610110171.aspx": {
 "title": "蔡英文返台前夕走訪灣區台裔店家為移民加油打氣",
 "url": "https://www.cna.com.tw/news/aipl/202610110171.aspx",
@@ -718,5 +727,23 @@
 "summary": "【記者 葉佳盈／澎湖 報導】移民署中區事務大隊澎湖縣服務站於10月28日在白沙鄉老人文康活動中心，舉",
 "via": "gnews",
 "added": "2026-10-30"
+},
+"https://n.yam.com/Article/20261120855390": {
+"title": "桃園百間新住民特色店家地圖帶你探索！發現城市新亮點",
+"url": "https://n.yam.com/Article/20261120855390",
+"date": "2026-11-20",
+"unit": "蕃新聞",
+"summary": "編輯中心/桃園報導圖／桃園市政府婦幼發展局一年一度的「115年桃園市新住民暨多元文化故鄉季」於11月",
+"via": "gnews",
+"added": "2026-11-21"
+},
+"https://n.yam.com/Article/20261120942448": {
+"title": "VeloFlow.ai揮軍東南亞 攜四國簽署MOU九個月帶動4.5億商品銷售額",
+"url": "https://n.yam.com/Article/20261120942448",
+"date": "2026-11-20",
+"unit": "蕃新聞",
+"summary": "（記者陳嫣蔚／台北報導）一鍵式 AI 影音導購平台 VeloFlow.ai 日前在台北寒舍艾美酒店盛",
+"via": "gnews",
+"added": "2026-11-21"
 }
 }
